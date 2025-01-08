@@ -1,6 +1,23 @@
+function gau(){
+const keyword = 'mms';
 urls = []
 $$('*').forEach(element => {
   urls.push(element.src)
   urls.push(element.href)
   urls.push(element.url)
-}); console.log(...new Set(urls))
+}); 
+const links = [...new Set(urls)];
+const filteredUrls = [];
+
+for (let u of links) {
+if (typeof u === 'string') {
+    let find = u.search(keyword);
+    if (find >= 0) {
+        filteredUrls.push(u);
+    }
+}
+}
+
+console.log(filteredUrls);
+
+}
