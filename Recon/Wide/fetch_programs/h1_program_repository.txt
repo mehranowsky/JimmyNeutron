@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/Osb0rn3/bugbounty-targets/refs/heads/main/programs/hackerone.json

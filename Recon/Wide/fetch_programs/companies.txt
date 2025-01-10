@@ -1,0 +1,1353 @@
+{
+  "website": "http://pepsico.com"
+}
+{
+  "website": "https://aws.amazon.com/"
+}
+{
+  "website": "https://www.nba.com"
+}
+{
+  "website": "https://supabase.com"
+}
+{
+  "website": "https://www.finnair.com"
+}
+{
+  "website": "http://6sense.com"
+}
+{
+  "website": "https://www.circle.com/"
+}
+{
+  "website": "http://lplfinancial.lpl.com"
+}
+{
+  "website": "http://onepeloton.com"
+}
+{
+  "website": "https://www.varonis.com/"
+}
+{
+  "website": "http://www.anthropic.com"
+}
+{
+  "website": "https://iongroup.com/"
+}
+{
+  "website": "https://klarna.com"
+}
+{
+  "website": "http://nimiq.com"
+}
+{
+  "website": "http://sandbox.timelycare.com"
+}
+{
+  "website": "http://lowes.com"
+}
+{
+  "website": "http://rei.com"
+}
+{
+  "website": "http://chia.net"
+}
+{
+  "website": "https://www.3cx.com"
+}
+{
+  "website": "http://alchemy.com"
+}
+{
+  "website": "https://inter.co"
+}
+{
+  "website": "https://bancobmg.com.br"
+}
+{
+  "website": "http://netflix.com"
+}
+{
+  "website": "http://transunion.com"
+}
+{
+  "website": ""
+}
+{
+  "website": "http://23andme.com"
+}
+{
+  "website": "http://www.aeromexico.com/"
+}
+{
+  "website": "https://temu.com"
+}
+{
+  "website": "https://www.bybit.com"
+}
+{
+  "website": "http://trip.com"
+}
+{
+  "website": "https://mactag.com"
+}
+{
+  "website": "https://www.inditex.com/"
+}
+{
+  "website": "http://aon.com"
+}
+{
+  "website": "http://www.leather.io"
+}
+{
+  "website": "https://www.xverse.app/"
+}
+{
+  "website": "https://oaknorth.co.uk/"
+}
+{
+  "website": "http://blueapron.com"
+}
+{
+  "website": "https://www.fireblocks.com/"
+}
+{
+  "website": "https://www.greenfly.com/"
+}
+{
+  "website": "https://www.aven.com/"
+}
+{
+  "website": "http://ivanti.com"
+}
+{
+  "website": "http://rbi.com"
+}
+{
+  "website": "https://ionity.eu/"
+}
+{
+  "website": "http://www.visa.com"
+}
+{
+  "website": "http://brightspeed.com"
+}
+{
+  "website": "http://www.nba.com"
+}
+{
+  "website": "https://aboitizpower.com/"
+}
+{
+  "website": "https://toolsforhumanity.com"
+}
+{
+  "website": "https://alshaya.com"
+}
+{
+  "website": "https://nicehash.com"
+}
+{
+  "website": "https://www.eurofins.com/"
+}
+{
+  "website": "http://ring.com"
+}
+{
+  "website": "https://www.truist.com"
+}
+{
+  "website": "https://six-group.com"
+}
+{
+  "website": "http://eufy.com"
+}
+{
+  "website": "https://eero.com/"
+}
+{
+  "website": "https://www.fertittaentertainmentinc.com/"
+}
+{
+  "website": "https://www.mozilla.org"
+}
+{
+  "website": "https://www.redoxengine.com"
+}
+{
+  "website": ""
+}
+{
+  "website": "https://www.egress.com"
+}
+{
+  "website": "http://dds.mil"
+}
+{
+  "website": "https://www.wisdomtree.com"
+}
+{
+  "website": ""
+}
+{
+  "website": "https://pornbox.com"
+}
+{
+  "website": "http://tron.network"
+}
+{
+  "website": "https://superbet.ro"
+}
+{
+  "website": "http://abnamro.com"
+}
+{
+  "website": "http://magiceden.io"
+}
+{
+  "website": "https://kolesa.kz"
+}
+{
+  "website": "https://www.prudential.com/"
+}
+{
+  "website": "https://www.boozt.com"
+}
+{
+  "website": "http://onezerobank.com"
+}
+{
+  "website": "https://www.state.gov"
+}
+{
+  "website": "http://www.vodafone.om"
+}
+{
+  "website": "http://www.frontegg.com"
+}
+{
+  "website": "http://kkr.com"
+}
+{
+  "website": "https://intuit.com"
+}
+{
+  "website": "http://53.com"
+}
+{
+  "website": "https://indrive.com/"
+}
+{
+  "website": "https://www.zerobounce.net"
+}
+{
+  "website": "http://amazon.com"
+}
+{
+  "website": "http://rei.com"
+}
+{
+  "website": "http://mergify.com"
+}
+{
+  "website": "http://zabbix.com"
+}
+{
+  "website": "https://coinhako.com"
+}
+{
+  "website": "https://www.arkoselabs.com/"
+}
+{
+  "website": "http://productboard.com"
+}
+{
+  "website": "http://abb.com"
+}
+{
+  "website": "http://avalara.com"
+}
+{
+  "website": "http://alscotoday.com"
+}
+{
+  "website": "http://abercrombie.com"
+}
+{
+  "website": "http://lacity.org"
+}
+{
+  "website": "http://dynamic.xyz"
+}
+{
+  "website": "https://www.resmed.com/en-us/"
+}
+{
+  "website": "http://www.yuga.com"
+}
+{
+  "website": "https://moderntreasury.com"
+}
+{
+  "website": "https://www.daimlertruck.com/"
+}
+{
+  "website": "https://canadagoose.com"
+}
+{
+  "website": "https://www.fireblocks.com/"
+}
+{
+  "website": "http://www.monarchmoney.com"
+}
+{
+  "website": "http://deliveryhero.com"
+}
+{
+  "website": "http://clarivate.com"
+}
+{
+  "website": "http://render.com"
+}
+{
+  "website": "https://metamask.io/"
+}
+{
+  "website": "https://skinport.com"
+}
+{
+  "website": "https://floqast.com"
+}
+{
+  "website": "https://www.callsign_com"
+}
+{
+  "website": "https://palantir.com"
+}
+{
+  "website": "https://ro.co"
+}
+{
+  "website": "https://windstream.com"
+}
+{
+  "website": "https://mongodb.com"
+}
+{
+  "website": "http://test.deribit.com"
+}
+{
+  "website": "https://www.fidelity.com"
+}
+{
+  "website": "https://sorare.com"
+}
+{
+  "website": "http://www.fresenius.com"
+}
+{
+  "website": "https://thewaltdisneycompany.com/"
+}
+{
+  "website": "http://stanford.edu"
+}
+{
+  "website": "https://www.alohi.com"
+}
+{
+  "website": "http://hilton.com"
+}
+{
+  "website": "https://gymshark.com"
+}
+{
+  "website": "http://moov.io"
+}
+{
+  "website": "https://www.strongdm.com"
+}
+{
+  "website": "https://www.compass.com/"
+}
+{
+  "website": "http://www.sidefx.com"
+}
+{
+  "website": "https://www.circle.com/"
+}
+{
+  "website": "http://allegion.com"
+}
+{
+  "website": "http://www.wickr.com"
+}
+{
+  "website": "https://pagerduty.com"
+}
+{
+  "website": "https://oanda.com"
+}
+{
+  "website": "http://payoneer.com"
+}
+{
+  "website": "https://agoric.com"
+}
+{
+  "website": "http://tesco.com"
+}
+{
+  "website": "https://securityscorecard.com"
+}
+{
+  "website": "https://fossilgroup.com"
+}
+{
+  "website": "http://planet.com"
+}
+{
+  "website": "https://moonpay.com"
+}
+{
+  "website": "http://divvyhomes.com"
+}
+{
+  "website": "https://koho.ca"
+}
+{
+  "website": "http://www.veeam.com"
+}
+{
+  "website": "http://redis.io"
+}
+{
+  "website": "http://godaddy.com"
+}
+{
+  "website": "https://www.mondelezinternational.com/"
+}
+{
+  "website": "http://capitalone.com"
+}
+{
+  "website": "http://apnic.net"
+}
+{
+  "website": "https://blend.com"
+}
+{
+  "website": "https://razorpay.com"
+}
+{
+  "website": "https://www.hackerone.com/internet-bug-bounty"
+}
+{
+  "website": "http://hy-vee.com"
+}
+{
+  "website": "http://gsa.gov"
+}
+{
+  "website": "http://www.tenable.com"
+}
+{
+  "website": "http://snowplowanalytics.com"
+}
+{
+  "website": "http://sega.co.uk"
+}
+{
+  "website": "https://newegg.com"
+}
+{
+  "website": "https://octopusenergy.group/"
+}
+{
+  "website": "http://fastly.com"
+}
+{
+  "website": "http://keurigdrpepper.com"
+}
+{
+  "website": "https://www.servicenow.com"
+}
+{
+  "website": "https://www.particlehealth.com"
+}
+{
+  "website": "https://krisp.ai"
+}
+{
+  "website": "https://www.hedera.com"
+}
+{
+  "website": "https://latam.com"
+}
+{
+  "website": "https://www.khealth.com"
+}
+{
+  "website": "http://smtp2go.com"
+}
+{
+  "website": "http://www.lacework.com"
+}
+{
+  "website": "https://www.jetblue.com"
+}
+{
+  "website": "http://nominet.uk"
+}
+{
+  "website": "http://zebra.com"
+}
+{
+  "website": "https://www.ups.com"
+}
+{
+  "website": "https://www.playtika.com"
+}
+{
+  "website": "https://www.beiersdorf.com"
+}
+{
+  "website": "http://deere.com"
+}
+{
+  "website": "https://www.tide.co"
+}
+{
+  "website": ""
+}
+{
+  "website": "https://www.fastify.io/"
+}
+{
+  "website": "http://mtb.com"
+}
+{
+  "website": "http://bit.ly/4bhRa8B"
+}
+{
+  "website": "http://recordedfuture.com"
+}
+{
+  "website": "https://www.lumiradx.com"
+}
+{
+  "website": "http://blackrock.com"
+}
+{
+  "website": "http://www.clubhouse.com"
+}
+{
+  "website": "http://tva.com"
+}
+{
+  "website": "http://costco.com"
+}
+{
+  "website": "http://consensys.io"
+}
+{
+  "website": "https://on-running.com"
+}
+{
+  "website": "https://www.hypr.com"
+}
+{
+  "website": "http://mars.com"
+}
+{
+  "website": ""
+}
+{
+  "website": "https://stripe.com"
+}
+{
+  "website": "https://www.pfizer.com"
+}
+{
+  "website": "https://www.emoneyadvisor.com/"
+}
+{
+  "website": "https://paystack.com/"
+}
+{
+  "website": "https://www.freshworks.com/"
+}
+{
+  "website": "https://judge.me"
+}
+{
+  "website": "http://r3.com"
+}
+{
+  "website": "http://www.cbre.com"
+}
+{
+  "website": "https://www.doppler.com"
+}
+{
+  "website": "https://www.grindr.com"
+}
+{
+  "website": "http://citrix.com"
+}
+{
+  "website": "http://anywhere.re"
+}
+{
+  "website": "http://gsa.gov"
+}
+{
+  "website": "https://ohiosos.gov"
+}
+{
+  "website": "https://www.openmage.org/"
+}
+{
+  "website": "https://www.iairgroup.com"
+}
+{
+  "website": "https://www.8x8.com"
+}
+{
+  "website": "https://www.aswatson.com"
+}
+{
+  "website": "http://tiktok.com"
+}
+{
+  "website": "https://miro.com"
+}
+{
+  "website": "https://www.aig.com"
+}
+{
+  "website": "http://finra.org"
+}
+{
+  "website": "https://www.rebelliondefense.com"
+}
+{
+  "website": "https://www.chime.com/"
+}
+{
+  "website": "https://launchdarkly.com"
+}
+{
+  "website": "https://polygon.technology"
+}
+{
+  "website": "https://skale.network"
+}
+{
+  "website": "http://www.cognizant.com"
+}
+{
+  "website": "http://vendasta.com"
+}
+{
+  "website": "http://insightly.com"
+}
+{
+  "website": "https://figma.com"
+}
+{
+  "website": "https://mendix.com"
+}
+{
+  "website": "https://www.amazon.com"
+}
+{
+  "website": "https://cs.money"
+}
+{
+  "website": "https://www.courier.com"
+}
+{
+  "website": "http://cedars-sinai.edu"
+}
+{
+  "website": "https://n45ht.or.id"
+}
+{
+  "website": "https://www.hostinger.com"
+}
+{
+  "website": "http://shutterfly.com"
+}
+{
+  "website": "https://www.usps.com"
+}
+{
+  "website": "http://shein.com"
+}
+{
+  "website": "https://navient.com"
+}
+{
+  "website": "https://staging.every.org"
+}
+{
+  "website": "https://www.td.com/"
+}
+{
+  "website": "http://www.cirrusinsight.com"
+}
+{
+  "website": "https://flexport.com"
+}
+{
+  "website": "http://www.thnks.com"
+}
+{
+  "website": "https://www.myndr.nl/"
+}
+{
+  "website": "https://faraday.ai"
+}
+{
+  "website": "https://www.playstation.com"
+}
+{
+  "website": "https://www.truecaller.com"
+}
+{
+  "website": "http://www.insulet.com"
+}
+{
+  "website": "http://wellsfargo.com"
+}
+{
+  "website": "https://www.investnext.com"
+}
+{
+  "website": "https://simplepoll.rocks"
+}
+{
+  "website": "https://pubg.com/en/main"
+}
+{
+  "website": "https://securitylab.github.com"
+}
+{
+  "website": "http://picsart.com"
+}
+{
+  "website": "http://evernote.com"
+}
+{
+  "website": "https://filezilla-project.org/"
+}
+{
+  "website": "https://clario.co/"
+}
+{
+  "website": "http://hcl-software.com"
+}
+{
+  "website": "https://stripo.email"
+}
+{
+  "website": "https://oasisprotocol.org"
+}
+{
+  "website": "https://www.exodus.com"
+}
+{
+  "website": "https://www.key.com"
+}
+{
+  "website": "http://wipro.com/lab45"
+}
+{
+  "website": "https://gmelius.com"
+}
+{
+  "website": "https://thomsonreuters.com"
+}
+{
+  "website": "https://paloalto.com"
+}
+{
+  "website": "https://overloop.com"
+}
+{
+  "website": "http://www.jnjmobile.com"
+}
+{
+  "website": "https://www.mtn.com/"
+}
+{
+  "website": "https://kubernetes.io/"
+}
+{
+  "website": "http://cornershopapp.com"
+}
+{
+  "website": "http://coinspot.com.au"
+}
+{
+  "website": "https://gocardless.com"
+}
+{
+  "website": "http://www.equifax.com"
+}
+{
+  "website": "https://forescout.com"
+}
+{
+  "website": "https://line.me"
+}
+{
+  "website": "https://www.att.com"
+}
+{
+  "website": "https://www.larksuite.com"
+}
+{
+  "website": "https://www.topechelon.com"
+}
+{
+  "website": "https://facebook.com"
+}
+{
+  "website": "http://solidus.io"
+}
+{
+  "website": "https://www.datastax.com/"
+}
+{
+  "website": "http://www.worklytics.co"
+}
+{
+  "website": "https://www.defectdojo.org"
+}
+{
+  "website": "https://www.trellix.com"
+}
+{
+  "website": "https://curl.se"
+}
+{
+  "website": "https://dynatrace.com"
+}
+{
+  "website": "https://ridewithvia.com"
+}
+{
+  "website": "http://www.mi.com"
+}
+{
+  "website": "https://coda.io/"
+}
+{
+  "website": "https://starlingbank.com"
+}
+{
+  "website": "https://www.sonatype.com/central-security-project"
+}
+{
+  "website": "https://capitalone.com"
+}
+{
+  "website": "https://www.reddit.com"
+}
+{
+  "website": ""
+}
+{
+  "website": "https://earlywarning.com"
+}
+{
+  "website": "https://instacart.com"
+}
+{
+  "website": "https://www.phpbb.com"
+}
+{
+  "website": "http://ford.com"
+}
+{
+  "website": "https://magic.link"
+}
+{
+  "website": "https://mattermost.com"
+}
+{
+  "website": "https://www.expediagroup.com/"
+}
+{
+  "website": "https://frontapp.com"
+}
+{
+  "website": "https://pillarproject.io"
+}
+{
+  "website": "https://etoro.com"
+}
+{
+  "website": "https://cryptography.io"
+}
+{
+  "website": "https://www.netlify.com"
+}
+{
+  "website": "https://fanduel.com"
+}
+{
+  "website": "https://creditkarma.com"
+}
+{
+  "website": "https://www.mercadolibre.com"
+}
+{
+  "website": "https://www.urbancompany.com"
+}
+{
+  "website": "https://www.remitly.com"
+}
+{
+  "website": "https://www.expediagroup.com/"
+}
+{
+  "website": "https://www.nutanix.com"
+}
+{
+  "website": "https://www.s-pankki.fi"
+}
+{
+  "website": "https://www.flickr.com/"
+}
+{
+  "website": "https://matomo.org"
+}
+{
+  "website": "http://nisc.coop"
+}
+{
+  "website": "https://www.logitech.com"
+}
+{
+  "website": "http://www.marriott.com"
+}
+{
+  "website": "http://www.hyatt.com"
+}
+{
+  "website": "https://www.acronis.com"
+}
+{
+  "website": "https://chain.link/"
+}
+{
+  "website": "http://paypal.com/"
+}
+{
+  "website": "https://mariadb.org"
+}
+{
+  "website": "https://chaturbate.com"
+}
+{
+  "website": "https://www.pixiv.net"
+}
+{
+  "website": "https://www.ibm.com"
+}
+{
+  "website": "https://arkadiyt.com"
+}
+{
+  "website": "https://interchain.io/"
+}
+{
+  "website": "https://duckduckgo.com"
+}
+{
+  "website": "http://www.affirm.com"
+}
+{
+  "website": "https://ratelimited.me"
+}
+{
+  "website": "https://crypto.com"
+}
+{
+  "website": "https://www.goodrx.com"
+}
+{
+  "website": "https://github.com/flavorjones/loofah"
+}
+{
+  "website": "https://nodejs.org"
+}
+{
+  "website": "http://nokogiri.org"
+}
+{
+  "website": "https://www.pingidentity.com/"
+}
+{
+  "website": "https://www.flutter.com/our-business/our-divisions"
+}
+{
+  "website": "http://www.toyota.com"
+}
+{
+  "website": "https://rootstocklabs.com"
+}
+{
+  "website": "https://www.bitmex.com"
+}
+{
+  "website": "https://github.com/dhui/passhash"
+}
+{
+  "website": "https://www.crowdstrike.com/"
+}
+{
+  "website": "https://databricks.com/"
+}
+{
+  "website": "https://www.coalitioninc.com/"
+}
+{
+  "website": "https://www.elastic.co/"
+}
+{
+  "website": "https://www.goldmansachs.com/"
+}
+{
+  "website": "https://www.smule.com"
+}
+{
+  "website": "https://www.kindredgroup.com"
+}
+{
+  "website": "https://edoverflow.com"
+}
+{
+  "website": "http://www.yoti.com"
+}
+{
+  "website": "https://www.valvesoftware.com"
+}
+{
+  "website": "https://epicgames.com"
+}
+{
+  "website": "http://www.sony.com"
+}
+{
+  "website": "https://www.malwarebytes.com"
+}
+{
+  "website": ""
+}
+{
+  "website": "https://www.grammarly.com"
+}
+{
+  "website": "https://www.hyperledger.org/"
+}
+{
+  "website": "https://getmonero.org"
+}
+{
+  "website": "http://www.usertesting.com"
+}
+{
+  "website": "https://bitwarden.com/"
+}
+{
+  "website": "https://www.oportun.com"
+}
+{
+  "website": "https://wakatime.com"
+}
+{
+  "website": "https://www.parrotsec.org/"
+}
+{
+  "website": "https://bumble.com/"
+}
+{
+  "website": "https://www.opn.ooo"
+}
+{
+  "website": "https://spotify.com"
+}
+{
+  "website": "https://www.roblox.com"
+}
+{
+  "website": "https://www.stellar.org"
+}
+{
+  "website": "http://dyson.com"
+}
+{
+  "website": "https://weblate.org/"
+}
+{
+  "website": "https://shop.shipt.com"
+}
+{
+  "website": "https://hackerone.com/disclosure-assistance"
+}
+{
+  "website": "https://nordsecurity.com/"
+}
+{
+  "website": "https://www.lyst.com"
+}
+{
+  "website": "https://www.kiwi.com"
+}
+{
+  "website": "https://discourse.org"
+}
+{
+  "website": "https://enjin.io"
+}
+{
+  "website": "http://www.nintendo.com"
+}
+{
+  "website": "https://bit.ly/3ntULtN"
+}
+{
+  "website": "https://plaid.com"
+}
+{
+  "website": "https://www.semrush.com/"
+}
+{
+  "website": "http://www.quora.com"
+}
+{
+  "website": "https://brave.com"
+}
+{
+  "website": "https://portswigger.net"
+}
+{
+  "website": "https://rubygems.org"
+}
+{
+  "website": "https://www.files.com/"
+}
+{
+  "website": "https://bi.owox.com"
+}
+{
+  "website": "https://hiro.so"
+}
+{
+  "website": "https://www.exness.com"
+}
+{
+  "website": "https://scopely.com"
+}
+{
+  "website": "https://localizestaging.com"
+}
+{
+  "website": "https://wordpress.org/"
+}
+{
+  "website": "http://aspen.io/"
+}
+{
+  "website": "https://github.com/gocd/gocd"
+}
+{
+  "website": "https://bitso.com"
+}
+{
+  "website": "https://nextcloud.com"
+}
+{
+  "website": "https://www.publitas.com"
+}
+{
+  "website": "http://www.starbucks.com"
+}
+{
+  "website": "https://www.ruby-lang.org"
+}
+{
+  "website": "http://www.rockstargames.com/"
+}
+{
+  "website": "https://bounty.github.com"
+}
+{
+  "website": "https://www.wealthsimple.com"
+}
+{
+  "website": "http://www.lahitapiola.fi"
+}
+{
+  "website": "https://home.bargains"
+}
+{
+  "website": "https://mainwp.com"
+}
+{
+  "website": "https://www.zomato.com"
+}
+{
+  "website": "http://www.gm.com"
+}
+{
+  "website": "https://www.torproject.org/"
+}
+{
+  "website": "https://www.deriv.com"
+}
+{
+  "website": "https://www.glassdoor.com/"
+}
+{
+  "website": "https://tinder.com"
+}
+{
+  "website": "https://fetlife.com"
+}
+{
+  "website": "https://github.com/bwillis/versioncake"
+}
+{
+  "website": "https://algolia.com"
+}
+{
+  "website": "https://grab.com"
+}
+{
+  "website": "https://www.kb.cert.org/vuls"
+}
+{
+  "website": "https://www.revive-adserver.com"
+}
+{
+  "website": "https://www.moneybird.com"
+}
+{
+  "website": "https://www.dashlane.com/"
+}
+{
+  "website": "https://www.coursera.org"
+}
+{
+  "website": "http://udemy.com"
+}
+{
+  "website": "https://www.zendesk.com"
+}
+{
+  "website": "https://www.kayak.com"
+}
+{
+  "website": "https://basecamp.com/about/policies/security/response"
+}
+{
+  "website": "https://www.shopify.com"
+}
+{
+  "website": "https://www.mapbox.com/security"
+}
+{
+  "website": "http://www.invisioncommunity.com"
+}
+{
+  "website": "https://www.airbnb.com"
+}
+{
+  "website": "http://www.booking.com"
+}
+{
+  "website": "https://staging.airtable.com/"
+}
+{
+  "website": "https://www.adobe.com/trust/security.html"
+}
+{
+  "website": "https://www.formassembly.com"
+}
+{
+  "website": "https://www.blockchain.com/"
+}
+{
+  "website": "https://ui.com"
+}
+{
+  "website": "https://www.snapchat.com/"
+}
+{
+  "website": "http://www.priceline.com/"
+}
+{
+  "website": "https://www.uber.com"
+}
+{
+  "website": "https://www.yelp.com"
+}
+{
+  "website": "https://www.informatica.com/"
+}
+{
+  "website": "https://vimeo.com"
+}
+{
+  "website": "https://www.linkedin.com"
+}
+{
+  "website": "https://app.greenhouse.io"
+}
+{
+  "website": "https://about.gitlab.com"
+}
+{
+  "website": "https://x.com"
+}
+{
+  "website": "https://www.cloudflare.com/disclosure"
+}
+{
+  "website": "https://automattic.com"
+}
+{
+  "website": "https://www.irccloud.com"
+}
+{
+  "website": "https://www.khanacademy.org/"
+}
+{
+  "website": "https://coinbase.com/security"
+}
+{
+  "website": "https://www.concretecms.org"
+}
+{
+  "website": "https://slack.com"
+}
+{
+  "website": "https://www.yahoo.com"
+}
+{
+  "website": "http://phacility.com/phabricator/"
+}
+{
+  "website": "http://rubyonrails.org/security"
+}
+{
+  "website": ""
+}
+{
+  "website": "https://hackerone.com"
+}
