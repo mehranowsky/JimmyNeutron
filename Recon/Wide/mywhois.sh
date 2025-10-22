@@ -5,13 +5,13 @@ if [ "$#" -ne 2 ]; then
 	exit 1 
 fi
 echo -e "\e[31m*************MY WHOIS*************\e[0m"
-IPs=$1
+DOMAINS=$1
 CO_NAME=$2
 
-while read -r ip
+while read -r domain
 do
-	orgName=$(whois "$ip" | grep -i "OrgName" | cut -d ':' -f2)
+	orgName=$(whois "$domain" | grep -i "OrgName" | cut -d ':' -f2)
 	if echo "$orgName" | grep -i -q "$CO_NAME"; then
-		echo "$ip"
+		echo "$domain"
 	fi
-done < $IPs
+done < $DOMAINS

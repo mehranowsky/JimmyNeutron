@@ -1,10 +1,11 @@
-alias burp='java -jar /home/mehranowsky/Public/Tools/Burp.Suite.Professional.2024.5.5/BurpLoaderKeygen117.jar'
+alias burp='java -jar /home/mehranowsky/Public/Burp_pro/BurpLoaderKeygen117.jar'
 alias linkfinder='python3 /home/mehranowsky/Public/Tools/Recon/Narrow/LinkFinder/linkfinder.py'
 alias fback='python3 /home/mehranowsky/Public/Tools/Recon/Narrow/BackupKiller/fback.py'
 alias robofinder='python3 /home/mehranowsky/Public/Tools/Recon/Narrow/robofinder/robofinder.py'
-alias filehunter='python3 /home/mehranowsky/Public/Tools/JimmyNeutron/Recon/Narrow/fileHunter/fileHunter.py'
-alias vincenzo='/home/mehranowsky/Public/Tools/Recon/Narrow/Vincenzo/vini.sh'
-
+alias filehunter='python3 /home/mehranowsky/Public/Tools/Customs/JimmyNeutron/Recon/Narrow/fileHunter/fileHunter.py'
+alias vincenzo='/home/mehranowsky/Public/Tools/Customs/Vincenzo/vini.sh'
+alias shecan='echo -e "nameserver 178.22.122.100\nnameserver 185.51.200.2\noptions edns0 trust-ad\n" | sudo tee /etc/resolv.conf > /dev/null && echo "Succeful...!"'
+alias govpn="echo -e "nameserver 1.1.1.1\nnameserver 8.8.8.8\noptions edns0 trust-ad\n" | sudo tee /etc/resolv.conf && sudo openvpn --config Templates/CONFIG_FILE"
 
 
 #***********Hunt tools*************
@@ -36,7 +37,7 @@ httpfull(){
 		echo "Define subs file!"
 		return 1
 	fi
-	user="Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36"
+	user="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
 	cat "$subsFile" | httpx -follow-host-redirects -title -status-code -tech-detect -H "User-Agent: $user" -H "Referer: $input" -threads 1 > httpsubs.txt
 }
 
@@ -89,5 +90,9 @@ gau $1 --threads 1 | grep -Eiv '\.(css|jpg|jpeg|png|svg|img|gif|exe|mp4|flv|pdf|
 
 abstract(){
 	grep -Eiv '\.(css|jpg|jpeg|png|svg|img|gif|exe|mp4|f4v|pdf|doc|ogv|webm|wmv|webp|mov|mp3|m4a|m4p|ppt|pptx|scss|tif|tiff|ttf|otf|woff|woff2|bmp|ico|eot|htc|swf|rtf|image|rf)' $1
+}
+
+getkeys(){
+jq -r '.. | objects | keys[]' | sort -u
 }
 #************Hunt tools*************

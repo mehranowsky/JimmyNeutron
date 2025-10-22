@@ -1,5 +1,5 @@
 function gau(){
-const keyword = 'mms';
+const keyword = 'COMPANY_NAME';
 urls = []
 $$('*').forEach(element => {
   urls.push(element.src)
@@ -18,6 +18,7 @@ if (typeof u === 'string') {
 }
 }
 
-console.log(filteredUrls);
+console.log("Found URLs:", filteredUrls);
 
 }
+gau()

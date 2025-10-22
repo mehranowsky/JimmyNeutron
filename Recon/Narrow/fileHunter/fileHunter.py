@@ -4,6 +4,7 @@ import datetime
 from datetime import timedelta
 
 #Argparse configs
+project_root="/home/mehranowsky/Public/Tools/Customs/JimmyNeutron/Recon/Narrow/fileHunter/"
 parser = argparse.ArgumentParser()
 parser.add_argument("-d",required=True, type=str,default=None, help="The target domain name")
 parser.add_argument("-dm", action="store_true", help="Date mode")
@@ -16,9 +17,9 @@ domain_name = full_domain.rsplit('.', 2)[-2]
 subdomain = full_domain.rsplit('.', 2)[0]
 
 # Load the extensions and wordlist
-with open('./configs/exts.json', 'r') as file:
+with open(f'{project_root}configs/exts.json', 'r') as file:
     exts = json.load(file)['exts']    
-with open(f'./{args.w}','r') as file:
+with open(f'{project_root}{args.w}','r') as file:
     wordlist = json.load(file)['word']
  
 # Appending to the list
